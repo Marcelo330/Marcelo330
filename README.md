@@ -4,9 +4,9 @@ Meu nome é Marcelo
 
 -Estou estudando na [alura](https://www.alura.com)
 
--Estou e desnvouvendo na linguagem JavaScript
+-Estou e desenvolvendo na linguagem JavaScript
 
--utilizo esse espaço para organização e compartilhamendo de meus projetos desenvolvidos
+-Utilizo esse espaço para organização e compartilhamendo de meus projetos desenvolvidos
 
 ###Voce  entrar em contato comigo 📫
 
