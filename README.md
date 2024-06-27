@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**Marcelo330/Marcelo330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcelo
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](https://www.alura.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou e desnvouvendo na linguagem JavaScript
+
+-utilizo esse espaço para organização e compartilhamendo de meus projetos desenvolvidos
+
+###Voce  entrar em contato comigo 📫
+
+marcelocv2008@gmail.com
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
